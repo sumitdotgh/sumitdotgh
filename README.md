@@ -122,3 +122,5 @@
 #### 📎 Credits
 
 > Some images used in this project were found on the internet and are assumed to be in the public domain or used under fair use for non-commercial purposes.
+
+![](https://komarev.com/ghpvc/?username=sumitdotgh&color=green)
