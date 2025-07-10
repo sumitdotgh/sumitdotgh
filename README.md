@@ -12,7 +12,7 @@
 
 ---
 
-> **Notice:** 
+> [!NOTE] 
 > My previous GitHub account ([@sughosneo](https://github.com/sughosneo)) has taken an unexpected vacation (read: I got locked out 🚪🔒).  
 > So, like a true developer, I’ve just created a shiny new one: [@sumitdotgh](https://github.com/sumitdotgh).  
 > If you’re looking for me, you’ll find me there—hopefully with fewer lockouts and more commits!
