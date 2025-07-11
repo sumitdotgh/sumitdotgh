@@ -19,7 +19,20 @@
 
 ---
 
-## 📫 Connect with me:
+## 🚀 About Me
+
+🎯 An engineer with **15+ years** of experience — I've shipped code from startup sprints to enterprise-scale systems, always with agility and purpose.
+
+🛠️ I’m a self‑learner who’s rarely without an open browser tab — passionately reading, coding, and contributing to inner‑source & open‑source projects.
+
+👉 I solve tricky problems, architect scalable systems, and build software with clean design in mind.
+
+🤖 From AI brains to pixel‑perfect UI, I love all kind the tech that solves business problem — because real magic happens when **AI meets UI**.
+
+
+---
+
+## 🤝 Let's Connect
 
 <p align="left">
 <a href="https://sughosneo.github.io/blogs/">
@@ -36,7 +49,8 @@
 </a>
 </p>
 
-<br />
+
+---
 
 ## 🛠️ Tech Stack, Tools & Competences
 
@@ -108,7 +122,8 @@
 ![♻️ Agile](https://img.shields.io/badge/♻️%20Agile-Iterative%20Development-0078D7?style=flat-square)
 
 
----------------------
+---
+
 ## 📷  Profile Snapshot
 
 <img align="left" alt="sughosneo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sughosneo&count_private=true&show_icons=true&hide_border=true">
@@ -119,8 +134,12 @@
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=7780215)
 
 
+---
+
 #### 📎 Credits
 
 > Some images used in this project were found on the internet and are assumed to be in the public domain or used under fair use for non-commercial purposes.
+
+---
 
 ![](https://komarev.com/ghpvc/?username=sumitdotgh&color=green)
